@@ -1,4 +1,4 @@
-![icon](https://i.imgur.com/wZo42EW.png)
+![icon](https://i.imgur.com/PUebjyA.png)
 
 # **ᐅ Description**
 Protogenchik's database containing discord ID and danger levels of "bad users". Attention: People can change! If you use the Protogenchik's database, don't forget to add the option for users to write an appeal!
